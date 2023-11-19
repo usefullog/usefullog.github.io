@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>food on www.usefullog.com</title>
+    <link>http://www.usefullog.com/tags/food/</link>
+    <description>Recent content in food on www.usefullog.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.usefullog.com/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taiwan</title>
+      <link>http://www.usefullog.com/posts/2023-05-taiwan/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.usefullog.com/posts/2023-05-taiwan/</guid>
+      <description>Coffee on top of Tapei 101 My friend introduced me to Simple Kaffa in Taipei. The brand was established by Wu after he won the World Barista Championship in 2016. Simple Kaffa offers gourmet coffee beans from rare source in small batches. Most interestingly, it serves coffee that is grown locally in Taiwan.
+Simple Kaffa has multiple locations, and this one - Simple Kaffa Sola - is on the 88th floor of Taipei 101.</description>
+    </item>
+    
+    <item>
+      <title>Alaska</title>
+      <link>http://www.usefullog.com/posts/2023-04-04-alaska/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.usefullog.com/posts/2023-04-04-alaska/</guid>
+      <description>Matanuska Glacier A guided tour and the hosts take you to and from the glacier with a snowmobile-driven sled. In winter you can walk on icy surface when Matanuska Glacier is frozen. I brought trekking poles but actually it was not needed because they give ice cleats to everyone. You can hear the cracking sound from the glacier movement when the surrounding is quite. You can also see that huge ice blocks being pushed upwards by the glacier.</description>
+    </item>
+    
+  </channel>
+</rss>
