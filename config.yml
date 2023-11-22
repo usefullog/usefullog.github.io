@@ -1,6 +1,6 @@
-baseURL: http://www.usefullog.com/
+baseURL: http://usefullog.com/
 languageCode: en-us
-title: www.usefullog.com
+title: usefullog.com
 paginate: 5
 theme: PaperMod
 
