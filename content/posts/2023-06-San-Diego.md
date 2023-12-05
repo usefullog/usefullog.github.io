@@ -1,7 +1,7 @@
 ---
 title: "San Diego"
 date: 2023-07-26T22:36:56-07:00
-draft: true
+draft: false
 toc: false
 images:
 tags: ["travel"] 
@@ -16,3 +16,8 @@ The yard in La Casa de Estudillo, the iconic building in the old town plaza. Whi
 Brunch at The Congress Cafe in Old Town. La de Mano, the sweet corn pancake with Venezuelan white cheese - queso de mano - meaning "the hand cheese" in Spainish. Filled with cheese, beans and plantain, it was a perfect brunch.
 ![congress cafe](/sandiego/congress-cafe.jpg)  
 
+# Balboa Park   
+I have been always curious about how people buying artwork while traveling. Mostly I want to know how does it feel like when you see some art and know that you have to take it with you. In San Diego I finally bought my first artwork while I was on the road. I met the artist Deb Gargula and had a brief conversation with her at the Spanish Village Art Center in Balboa Park. I loved the delicate color pencil drawings of Arizona cactus desert landscape. I had to carry the drawing on the flight home and it was an amazing experience.  
+![balboa park](/sandiego/balboa.jpg)  
+
+If you are into art, Balboa Park is definitely worth a visit. In addition to the art studios, the architecture of the museum buildings and the landscape design are outstanding. 

@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://usefullog.com/posts/</loc>
+    <lastmod>2023-07-26T22:36:56-07:00</lastmod>
+  </url><url>
+    <loc>http://usefullog.com/posts/2023-06-san-diego/</loc>
+    <lastmod>2023-07-26T22:36:56-07:00</lastmod>
+  </url><url>
+    <loc>http://usefullog.com/tags/</loc>
+    <lastmod>2023-07-26T22:36:56-07:00</lastmod>
+  </url><url>
+    <loc>http://usefullog.com/tags/travel/</loc>
+    <lastmod>2023-07-26T22:36:56-07:00</lastmod>
+  </url><url>
+    <loc>http://usefullog.com/</loc>
+    <lastmod>2023-07-26T22:36:56-07:00</lastmod>
+  </url><url>
     <loc>http://usefullog.com/tags/food/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://usefullog.com/posts/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://usefullog.com/tags/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://usefullog.com/posts/2023-05-taiwan/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://usefullog.com/tags/travel/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://usefullog.com/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://usefullog.com/posts/2023-04-04-alaska/</loc>
