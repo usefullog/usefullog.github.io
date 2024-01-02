@@ -7,7 +7,7 @@ images:
 tags: ["travel"] 
 ---
 
-My fisrt ever photo of Milky Way was captured using an iPhone 12 Pro Max. Bryce Canyon National Park is one of the [International Dark Sky](https://darksky.org/) location. I attended a ranger hosted stargazing program and luckily the sky was very clear and dark. It was very challenging to shoot with a long exposure time and I did not have a tripod with me. I had to hold the phone against a car to stablize it. The photo turns out quite satisfactory.
+My fisrt ever photo of Milky Way was captured using an iPhone 12 Pro Max. Bryce Canyon National Park is one of the [International Dark Sky](https://darksky.org/) location. I attended a ranger hosted stargazing program and luckily the sky was very clear and dark. It was very challenging to shoot with a long exposure time and I did not have a tripod with me. I had to hold the phone against a car to stablize it. The photo turns out quite satisfactory. You can see the Milky Way running through the Summer Triangle, with Vega on the top of this photo. 
 ![milky way](/bryce/bryce-milkyway.jpg)  
 
 
