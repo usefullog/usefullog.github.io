@@ -10,8 +10,6 @@ params:
     Content: Here are a bunch of logs. Some are useful, some are useless...
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
