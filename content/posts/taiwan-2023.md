@@ -5,7 +5,7 @@ date:   2023-06-22
 tags: ["travel","food"]
 ---
 
-# Coffee on top of Tapei 101
+# Coffee on top of Taipei 101
 My friend introduced me to Simple Kaffa in Taipei. The brand was established by Wu after he won the World Barista Championship in 2016. Simple Kaffa offers gourmet coffee beans from rare source in small batches. Most interestingly, it serves coffee that is grown locally in Taiwan.  
 
 Simple Kaffa has multiple locations, and this one - Simple Kaffa Sola - is on the 88th floor of Taipei 101. To reach here, you will enter Taipei 101 from the office entrance (not the shopping mall side) and talk to the reception desk. 
@@ -31,21 +31,20 @@ Cape Fugui Lighthouse (富貴角) is located at the north most point of Taiwan.
 # Food highlights  
 
 ![Cafe Astoria](/taiwan/astoria.JPG)  
-Cafe Astoria is a nostalgic place. Opened by Russian immigrants who fled Shanghai in 1949. This place served many famous people including politicians, artists, writers and poets.
 
-![Astoria Food](/taiwan/astoria-food.JPG)  
-Cafe Astoria offers a delightful western style menu. It has an old-fashioned, cliassical touch. This surf and turf combo has no cheese in it (very Taiwanese style) and doesn't have excess grease. The black pepper sauce creates a familiar and simple satisfaction.   
+![Astoria Food](/taiwan/astoria-food.JPG)
+
+Open by Russian immigrants who fled Shanghai in 1949, Cafe Astoria is a place filled with nostalgic atmosphere. Even the food has a familiar flavor that resembles a localized western style dining. I am talking about the black pepper sauce that has become indispensable partner of the steak. This place served many famous people including politicians, artists, writers and poets.
 
 ![Beyondmilk](/taiwan/beyondmilk.JPG)  
+
 Beyondmilk - soybean pudding, peanuts, walnut with sesame soymilk.  
 
 ![Chicken Bento](/taiwan/takeda-chicken.JPG)  
+
 Chicken Bento (武田雞肉) - lunchbox tastes better in a round-shape container. This bento is no-nonsense and straight awesome. Green onion oil sauce on tender chichen, soy-braised fried meatball and tofu -- yummy, yummy and yummy.  
 
 ![Rice noodle](/taiwan/rice-noodle.JPG)  
 During a visit to Kaohsiung, my aunt and uncle brought me here for squid rice noodle soup (阿忠米粉湯). This place offers local southern Taiwanese style flavors, such as the milkfish skin and the shark meat.  
-
-![ANA](/taiwan/ana-food.JPG)  
-A purchased ANA inflight meal offers sashimi style tuna in its appeziter and everything is super delicious.  
 
 
