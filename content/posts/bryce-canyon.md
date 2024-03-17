@@ -4,7 +4,7 @@ date: 2021-07-03
 draft: false
 toc: false
 images:
-tags: ["travel"] 
+tags: ["travel","nationalpark"]
 ---
 
 My fisrt ever photo of Milky Way was captured using an iPhone 12 Pro Max. Bryce Canyon National Park is one of the [International Dark Sky](https://darksky.org/) location. I attended a ranger hosted stargazing program and luckily the sky was very clear and dark. It was very challenging to shoot with a long exposure time and I did not have a tripod with me. I had to hold the phone against a car to stablize it. The photo turns out quite satisfactory.

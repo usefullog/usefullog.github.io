@@ -2,6 +2,7 @@
 layout: post
 title:  "Illinois"
 date:   2023-03-05
+tags: ["photo"]
 ---
 
 With the advance of phone camera technology, anyone can easily take good quality pictures. I have been posting photos on Instagram for years but it gets less and less frequent recently. One drawback of posting on the social media site is that the service can become obsolete one day, eventually. Posting on website may not be as easy as posting on Instagram, but I can try. Maybe there is a way to make it easier.  

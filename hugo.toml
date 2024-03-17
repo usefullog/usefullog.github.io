@@ -57,7 +57,7 @@ summaryLength = 70  # number of words for article summaries
 
     contentWidth = "800px" # "1000px"  # maximum width of the site content, css syntax
 
-    paperCards = true  # enable paper card style; default false
+    paperCards = false  # enable paper card style; default false
     buttonTags = false  # enable button tag style; default false
     tagsInArticlePreview = true  # enable tags list in the article preview card
     gridView = false  # show post list as a grid. goes well with paperCards
@@ -74,7 +74,7 @@ summaryLength = 70  # number of words for article summaries
 
     enableFeatured = false  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
 
-    underlineTitleLinks = false  # show an underline also for links that are titles
+    underlineTitleLinks = true  # show an underline also for links that are titles
 
     # enable comments support with commento using the script from your server
     # commento = "https://example.com/js/commento.js"
