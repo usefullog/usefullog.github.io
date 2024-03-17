@@ -136,10 +136,10 @@ summaryLength = 70  # number of words for article summaries
     #     weight = 10
     # these links (menu.icons) will be added as icon links below the main nav
     [[menu.icons]]
-        identifier = "github"
-        name = "GitHub"
-        url = "https://github.com/usefullog/usefullog.github.io"
-        weight = 10
+        # identifier = "github"
+        # name = "GitHub"
+        # url = "https://github.com/usefullog/usefullog.github.io"
+        # weight = 10
 
 # this section is necessary if you want infinite scrolling
 # it allows to output the article list as paged JSON so that "pages" can be retrieved via javascript
