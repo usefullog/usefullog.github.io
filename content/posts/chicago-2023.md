@@ -8,7 +8,9 @@ tags: ["travel","food"]
 ---
 
 I was in Chicago again! The city that I visited so frequently holds a lot of memories. It has been 4 years since my last trip to Chicago.
-Everything felt both nostalgic and fresh at the same time. P and I stayed in Chicago Athletic Club over the weekend. Then we spent the entire working from a hotel room in the West Loop neighborhood.
+Everything felt both nostalgic and fresh at the same time. P and I stayed in Chicago Athletic Club over the weekend. This stylish hotel sits right across the Millennium Park and has a vintage, sporty theme.
+
+Then we spent the entire working from a hotel room in the West Loop neighborhood.
 
 ![](/chicago/the-loop.JPEG)
 *The Loop, downtown Chicago, view from Millennium Park*
@@ -39,8 +41,8 @@ Everything felt both nostalgic and fresh at the same time. P and I stayed in Chi
 
 
 ## Food selection
-- Girl and the Goat
 - Monteverde Restaurant & Pastificio
+- Girl and the Goat
 - Green Street Smoked Meats
 - MingHin Cuisine
 - Cherry Circle Room
