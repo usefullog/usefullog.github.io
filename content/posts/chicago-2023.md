@@ -10,7 +10,7 @@ tags: ["travel","food"]
 I was in Chicago again! The city that I visited so frequently holds a lot of memories. It has been 4 years since my last trip to Chicago.
 Everything felt both nostalgic and fresh at the same time. P and I stayed in Chicago Athletic Club over the weekend. This stylish hotel sits right across the Millennium Park and has a vintage, sporty theme.
 
-Then we spent the entire working from a hotel room in the West Loop neighborhood.
+Then we spent the entire week working from a hotel room in the West Loop neighborhood. We finally had a chance to visit Girl and the Goat.
 
 ![](/chicago/the-loop.JPEG)
 *The Loop, downtown Chicago, view from Millennium Park*
