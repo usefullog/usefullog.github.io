@@ -22,4 +22,11 @@ Arizona is really hot in the summar. Spring would be a nice season to visit and 
 
 A *forest* of Saguaro covers the entire hill, it is a dense forest but the space between two cacti is quite larger than in a normal tree forest. This is because the root of a Saguaro reaches far out. The scene feels unreal.
 
+![prehistoric](/saguaro/prehistoric.jpg)  
+
+At Signal Hill, in the Saguaro NP West. There is a site where you can find prehistoric drawings on the rocks called petroglyphs.
+
+![prickly](/saguaro/prickly-thumb.jpg)  
+
+Walking among various cacti and occasionally you can get a prickly thumb :P.
 
