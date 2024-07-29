@@ -7,7 +7,7 @@ images:
 tags: ["travel","nationalpark"]
 ---
 
-Glacier National Park is very popluar and extremely difficult to book. I was very lucky to able to go there, thanks to P's perfect planning one year in advance. We stayed in Kalispell and entered from West Glacier. 
+Glacier National Park is very popular and extremely difficult to book. I was very lucky to able to go there, thanks to P's perfect planning one year in advance. We stayed in Kalispell and entered from West Glacier. 
 
 ![](/glacier/bowman-lake.JPG)  
 We sat by the Bowman Lake and did nothing - just watch people and enjoy the time. It could be one of the most relaxing experience. There were people skipping pebbles. One kid was really good and all proud of himself, until he saw another guy throwing twice as many skips. I also met a bird, don't know its species, jumping really close to my lap -- then it pulled a green worm out of the sand from under my lap.
