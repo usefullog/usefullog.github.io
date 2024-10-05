@@ -1,7 +1,7 @@
 ---
 title: "Camera"
 date: 2024-09-29
-draft: true
+draft: false
 toc: false
 images:
 tags: ["photography","wildlife","bird","water"]
