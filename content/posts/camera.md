@@ -23,9 +23,15 @@ Still learning photography skills. Trying to lower the shutter speed such that t
 [aperture=f/5.6, shutter=1/500s, iso=100, focal=109mm]  
 
 Sea bird catching a fish. Harbor in Crescent City, California.  
+This is taking with my kit lens, which includes telephoto focal range. I did not expect it, but it is a happy surprise that I captured the moment when the bird picked up the fish.
 
 ![](/images/rabbit.jpg)
 [aperture=f/5.6, shutter=1/1600s, iso=1000, focal=135mm]  
 
-Bunny laying on the brick enjoying a sun bath.
+Bunny laying on the brick enjoying a sun bath. A telephoto lens make it a lot easier to take wildlife pictures. The first reason I wanted to get a camera is for taking crispy wildlife pictures of birds and small critters in the backyard.
+
+![](/images/fern.jpg)
+[aperture=f/5, shutter=1/80s, iso=1600, focal=51mm]  
+
+Young fern leaves on a mossy ball in the woods. Tyson Creek State Park, Oregon. With a larger lens to allow more light in, the camera still has advantage over a cellphone in a darker environment such as dense woods.
 
