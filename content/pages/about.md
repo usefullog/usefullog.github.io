@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2024-10-06
+date: 2024-10-18
 permalink: /about/
 ---
 
@@ -19,4 +19,9 @@ Some are useless.*
 
  - 2024-07-13 Adding Saguaro NP and Glacier NP.  
  - 2024-10-06 Add Camera post. 
-
+ - 2024-10-17 Re-installed Fedora 40 with KDE Plasma. I was not able to get Gnome to show RAW file thumbnails. Some things to be done after installation -- 
+ 1. transfer all backup files
+ 2. install RPMFusion for all codecs
+ 3. setup GitHub for this site
+ 4. firefox freezes sporadically and no solution - switching to chromium for now
+ 5. install vscode
