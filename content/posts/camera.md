@@ -33,5 +33,5 @@ Bunny laying on the brick enjoying a sun bath. A telephoto lens make it a lot ea
 ![](/images/fern.jpg)
 [aperture=f/5, shutter=1/80s, iso=1600, focal=51mm]  
 
-Young fern leaves on a mossy ball in the woods. Tyson Creek State Park, Oregon. With a larger lens to allow more light in, the camera still has advantage over a cellphone in a darker environment such as dense woods.
+Young fern leaves on a mossy ball in the woods. Tryon Creek State Park, Oregon. For now I am still shooting with the kit lens: Sony APS-C E-mount 18–135 mm F3.5-5.6 OSS.  I would like to practice on this lens to a level when I can produce constently good photos.  With a larger lens like this, the camera still has advantage over a cellphone in a darker environment such as dense woods.
 
