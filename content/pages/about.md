@@ -25,3 +25,4 @@ Some are useless.*
  4. firefox freezes sporadically and no solution - switching to chromium for now
  5. install nvidia driver, this might solve the firefox problem
  6. install vscode, darktable, blender
+- 2024-12-18 Add Redwood NP post. The photos are taken by Sony A6700 and developed using Darktable
