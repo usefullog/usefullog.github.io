@@ -3,7 +3,7 @@ title: "Chicago"
 date: 2024-04-15
 draft: false
 toc: false
-images:
+image: /chicago/skyline.JPEG
 tags: ["travel","food"]
 ---
 
@@ -32,9 +32,6 @@ Then we spent the entire week working from a hotel room in the West Loop neighbo
 
 ![](/chicago/field.JPEG)
 *Walk in great spring weather, sunshine, blossom and lake view*
-
-![](/chicago/skyline.JPEG)
-*Chicago skyline from Alder Planetarium*
 
 ![](/chicago/jazz-showcase.JPEG)
 *Jazz Showcase in South Loop is a vintage venue for live jazz performance*

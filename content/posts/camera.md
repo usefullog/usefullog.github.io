@@ -3,7 +3,7 @@ title: "Camera"
 date: 2024-09-29
 draft: false
 toc: false
-images:
+image: /images/wren.jpg
 tags: ["photography","wildlife","bird","water"]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Alaska"
 date:   2023-04-04
+image: /alaska/aurora1.jpg
 tags: ["travel","food"]
 ---
 

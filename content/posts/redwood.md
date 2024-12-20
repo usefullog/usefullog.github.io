@@ -3,7 +3,7 @@ title: "Redwood National Park"
 date: 2024-08-01
 draft: false
 toc: false
-images:
+image: /redwood/cloves.jpg
 tags: ["travel","nationalpark"]
 ---
 
