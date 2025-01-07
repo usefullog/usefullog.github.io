@@ -3,7 +3,7 @@ title: "Bryce Canyon National Park"
 date: 2021-07-03
 draft: false
 toc: false
-images:
+image: /bryce/bryce0.jpg
 tags: ["travel","nationalpark"]
 ---
 

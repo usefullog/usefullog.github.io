@@ -3,7 +3,7 @@ title: "Digital Nomad"
 date: 2024-02-11T23:14:02-08:00
 draft: false
 toc: false
-images:
+image: /images/valley-of-fire.jpg
 tags: ["travel", "food"]
 ---
 

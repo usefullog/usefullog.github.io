@@ -1,12 +1,12 @@
 ---
+layout: post
 title: "Saguaro National Park"
 date: 2024-03-09
 draft: false
 toc: false
-images:
+image: /saguaro/visitor-center.jpg
 tags: ["travel","nationalpark"]
 ---
-
 
 Visiting Saguaro National Park is like visiting another world - it is beyond my imagination. It took a decade for a Saguaro cactus to grow a few inches tall, and yet there is a forest full of giant, 3-story tall Saguaro in front of me.  Think about how long does it take to grow this vast landscape of cactus.
 

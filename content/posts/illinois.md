@@ -2,6 +2,7 @@
 layout: post
 title:  "Illinois"
 date:   2023-03-05
+image: /illinois/firefly1.jpg
 tags: ["photo"]
 ---
 

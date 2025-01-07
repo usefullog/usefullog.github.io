@@ -3,7 +3,7 @@ title: "San Diego"
 date: 2023-07-26T22:36:56-07:00
 draft: false
 toc: false
-images:
+image: /sandiego/carrier.jpg
 tags: ["travel","food"]
 ---
 Birthplace of California -- before I visited this city, I have been hearing good thing about San Diego. The perfect weather, good food, and fun activities. One thing I did not know before my trip, is that it is also an old city. In fact, the Old Town San Diego is referred to as the "birthplace" of California.

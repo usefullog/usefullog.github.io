@@ -3,7 +3,7 @@ title: "Glacier National Park"
 date: 2023-08-15
 draft: false
 toc: false
-images:
+image: /glacier/boat.jpg
 tags: ["travel","nationalpark"]
 ---
 
