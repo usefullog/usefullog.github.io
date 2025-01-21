@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2024-10-18
+date: 2025-01-20
 permalink: /about/
 ---
 
@@ -27,3 +27,4 @@ Some are useless.*
  6. install vscode, darktable, blender
 - 2024-12-18 Add Redwood NP post. The photos are taken by Sony A6700 and developed using Darktable
 - 2024-12-19 Enable image on the preview
+- 2025-01-20 Add Maui post
