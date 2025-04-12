@@ -28,3 +28,4 @@ Some are useless.*
 - 2024-12-18 Add Redwood NP post. The photos are taken by Sony A6700 and developed using Darktable
 - 2024-12-19 Enable image on the preview
 - 2025-01-20 Add Maui post
+- 2025-04-12 Add Lisbon post
