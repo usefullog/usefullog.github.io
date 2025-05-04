@@ -14,7 +14,7 @@ copyright = "by usefullog.com - all copyright reserved"
 [pagination]
     pagerSize = 5  # number of articles per page in the index
 
-summaryLength = 30  # number of words for article summaries
+summaryLength = 10  # number of words for article summaries
 
 
 [params]
