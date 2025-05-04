@@ -10,7 +10,10 @@ defaultContentLanguage = "en"
 copyright = "by usefullog.com - all copyright reserved"
 # copyright = "Some copyright notice - [my license](https://example.com/license)"
 
-paginate = 10  # number of articles per page in the index
+# paginate = 10  # number of articles per page in the index
+[pagination]
+    pagerSize = 5  # number of articles per page in the index
+
 summaryLength = 30  # number of words for article summaries
 
 
@@ -55,7 +58,7 @@ summaryLength = 30  # number of words for article summaries
     mainFontSizeMultiplier = 1.0
     monoFontSizeMultiplier = 1.0
 
-    contentWidth = "600px" # "1000px"  # maximum width of the site content, css syntax
+    contentWidth = "800px" # "1000px"  # maximum width of the site content, css syntax
 
     paperCards = false  # enable paper card style; default false
     buttonTags = false  # enable button tag style; default false
