@@ -97,13 +97,6 @@ summaryLength = 30  # number of words for article summaries
     enableShareOnFediverse = false  # enable a button at the end of an article to share it on the fediverse
     tocBeforeImage = false  # show the table of contents before the main article image; default false
 
-    # WARNING: deprecated! Use [[menu.icons]] instead, look below
-    # links = [
-    #     ["GitLab", "https://gitlab.com/gabmus"],
-    #     ["GNOME", "https://gitlab.gnome.org/gabmus"],
-    #     ["YouTube", "https://youtube.com/TechPillsNet"]
-    # ]
-
     # you can customize all of the colors in this theme
     # Colors are defined in data/colors.yml
 
