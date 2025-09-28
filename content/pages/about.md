@@ -11,7 +11,8 @@ Some are useless.*
 
 ![suedbahnhof](/images/suedbahnhof.jpg)
 
-# Motto
+# Quote
+
 > "It is only by selection, by elimination, by emphasis that we get at the real meaning of things. -- Georgia O'Keeffe"
 
 
@@ -35,3 +36,5 @@ Some are useless.*
 - 2025-07-12 Add Learning post
 - 2025-07-21 Add 5-step engineering process post
 - 2025-08-24 Add sampling your world post
+- 2025-09-28 Add North Cascade post
+
