@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2025-01-20
+date: 2023-11-18
 permalink: /about/
 ---
 
@@ -37,4 +37,5 @@ Some are useless.*
 - 2025-07-21 Add 5-step engineering process post
 - 2025-08-24 Add sampling your world post
 - 2025-09-28 Add North Cascade post
+- 2025-10-01 Add Crater Lake post
 

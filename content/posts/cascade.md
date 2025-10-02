@@ -1,6 +1,6 @@
 ---
 title: "North Cascade National Park"
-date: 2025-09-28
+date: 2025-08-30
 draft: false
 toc: false
 image: /cascade/diablo.jpg
