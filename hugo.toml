@@ -17,7 +17,7 @@ summaryLength = 30  # number of words for article summaries
 
 
 [params]
-    author = "TWL"
+    author = "TL"
     description = "Here are a bunch of logs. Some are useful, some are useless..."  # this will be added as metadata
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"

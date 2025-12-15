@@ -6,7 +6,7 @@ toc: false
 image: /images/joseph.jpg
 tags: ["ideas","ai"]
 ---
-Photo taken by TWL in Joseph, Oregon, 2024; text produced with help from Grok AI
+Photo taken in Joseph, Oregon, 2024
 
 # Elon Musk’s 5-step Engineering Process  
 *Source: Everyday Astronaut Interview at SpaceX Starbase, July 30, 2021*

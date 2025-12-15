@@ -14,7 +14,7 @@ I played with mining crypto during Covid-19 purely just for fun and the technica
 # Learn about AI
 I learned and understand machine learning a few years ago, but did not pay too much attention to the LLM application -- until ChatGPT happens. I guess many people are like me. Then I started learning how to use LLM to help with my work and my daily life. However, every post on this blog is hand-crafted by me personally, without using AI. I see my own words as a form of my existence and I would rather show the authentic side of myself, even if it is imperfect. 
 
-(PS: the idea of learning about AI is to better make use of it. Therefore it is probably too restrictive to avoid using AI completely. In fact, the motto of this blog is from Georgia O'Keeffe: "It is only by selection, by elimination, by emphasis that we get at the real meaning of things", which does not prevent me from using AI's help. As long as I take the effort to select, to eliminate, to emphasize, it is still my reality and understanding of things)
+The idea of learning about AI is to better make use of it. Therefore it is probably too restrictive to avoid using AI completely. In fact, the motto of this blog is from Georgia O'Keeffe: "It is only by selection, by elimination, by emphasis that we get at the real meaning of things", which does not prevent me from using AI's help. As long as I take the effort to select, to eliminate, to emphasize, it is still my reality and understanding of things.
 
 # Excersice regularly
 Going to Pilates classes, twice a week.

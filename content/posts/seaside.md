@@ -9,7 +9,7 @@ tags: ["travel"]
 Oregon beach is cold even in summer. There is often strong wind and the sea water is freezing. Nevertheless, the sand is very soft on Oregan beaches and I still enjoy walking on the beach and dipping my feet into the waves, even in the winter. 
 
 ![](/seaside/beach.JPG)  
-This photo is taken by PJ with a disposable Kodak film camera. Nowadays shooting with a film camera is becoming a niche hobby the same way that poeple listen to music with vinyl records. People even look for digital camera brand such as Fujifilm, which has its unique film-like color profiles.
+This photo is taken by P with a disposable Kodak film camera. Nowadays shooting with a film camera is becoming a niche hobby the same way that poeple listen to music with vinyl records. People even look for digital camera brand such as Fujifilm, which has its unique film-like color profiles.
 
 
 ![](/seaside/carousel.JPG)  

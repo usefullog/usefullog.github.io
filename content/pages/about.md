@@ -39,3 +39,5 @@ Some are useless.*
 - 2025-09-28 Add North Cascade post
 - 2025-10-01 Add Crater Lake post
 
+# Contact Me
+Please send feedback to email[at]usefullog.com

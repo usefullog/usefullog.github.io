@@ -6,7 +6,7 @@ toc: false
 image: /images/cargo.jpg
 tags: ["ideas"]
 ---
-Photo taken by TWL in Lisbon on Tagus River, 2024
+Lisbon on Tagus River, 2024
 
 There is a saying: "You are what you eat." And my variation on that is: "the world is how you sample it."
 
