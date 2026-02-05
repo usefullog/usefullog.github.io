@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html class="{{ if .IsHome }}home{{ end }}" lang="{{ .Site.LanguageCode }}">
+    {{- partial "head.html" . -}}
+    {{- partial "build_assets.html" . -}}
+    <body>
+        <div id="baseContainer">
+            {{- partial "header.html" . -}}
+            <div id="contentContainer">
+                <div id="content">
+                    <main>
+                        {{- block "main" . }}{{- end }}
+                    </main>
+                    {{- partial "footer.html" . -}}
+                </div>
+            </div>
+        </div>
+        {{- partial "plausible.html" . -}}
+        {{- partial "umami.html" . -}}
+        {{- partial "inject/body.html" . -}}
+        <!-- Cloudflare Web Analytics -->
+        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "69b4934abcda48c2bf8833371083f35c"}'></script>
+        <!-- End Cloudflare Web Analytics -->
+    </body>
+</html>
