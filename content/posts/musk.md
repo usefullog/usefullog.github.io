@@ -1,9 +1,8 @@
 ---
 title: "Five-step Engineering Process"
 date: 2025-07-21
-draft: false
-toc: false
-image: /images/joseph.jpg
+cover:
+   image: /images/joseph.jpg
 tags: ["ideas","ai"]
 ---
 Photo taken in Joseph, Oregon, 2024

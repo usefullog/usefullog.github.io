@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Saguaro National Park"
 date: 2024-03-09
-draft: false
-toc: false
-image: /saguaro/visitor-center.jpg
+cover:
+    image: /saguaro/visitor-center.jpg
 tags: ["travel","nationalpark"]
 ---
 

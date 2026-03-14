@@ -1,9 +1,8 @@
 ---
 title: "Crater Lake National Park"
 date: 2025-08-09
-draft: false
-toc: false
-image: /crater/eat.jpg
+cover:
+    image: /crater/lake.jpg
 tags: ["travel","nationalpark"]
 ---
 

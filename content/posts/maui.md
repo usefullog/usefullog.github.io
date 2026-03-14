@@ -1,9 +1,8 @@
 ---
 title: "Maui"
 date: 2024-11-01
-draft: false
-toc: false
-image: /maui/sunrise.jpg
+cover:
+    image: /maui/sunrise.jpg
 tags: ["travel","nationalpark","wildlife"]
 ---
 

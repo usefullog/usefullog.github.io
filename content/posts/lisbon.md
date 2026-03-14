@@ -1,9 +1,8 @@
 ---
 title: "Lisbon"
 date: 2025-04-02
-draft: false
-toc: false
-image: /lisbon/commercial.jpg
+cover:
+    image: /lisbon/commercial.jpg
 tags: ["travel","europe"]
 ---
 

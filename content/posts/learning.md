@@ -1,9 +1,8 @@
 ---
 title: "Learning"
 date: 2025-07-12
-draft: false
-toc: false
-image: /images/jellyfish.jpg
+cover:
+    image: /images/jellyfish.jpg
 tags: ["ideas"]
 ---
 This year I started several projects for my personal growth.

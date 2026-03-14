@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Taiwan"
 date: 2023-06-22
-image: /taiwan/beyondmilk.JPG
+cover:
+    image: /taiwan/beyondmilk.JPG
 tags: ["travel","food"]
 ---
 

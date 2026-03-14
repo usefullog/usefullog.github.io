@@ -1,9 +1,8 @@
 ---
 title: "Sampling your world"
 date: 2025-08-23
-draft: false
-toc: false
-image: /images/cargo.jpg
+cover:
+    image: /images/cargo.jpg
 tags: ["ideas"]
 ---
 Lisbon on Tagus River, 2024

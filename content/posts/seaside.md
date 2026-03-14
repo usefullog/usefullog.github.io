@@ -1,9 +1,8 @@
 ---
 title: "Seaside"
 date: 2025-04-06
-draft: false
-toc: false
-image: /seaside/lewis_clark.JPG
+cover:
+    image: /seaside/lewis_clark.JPG
 tags: ["travel"]
 ---
 Oregon beach is cold even in summer. There is often strong wind and the sea water is freezing. Nevertheless, the sand is very soft on Oregan beaches and I still enjoy walking on the beach and dipping my feet into the waves, even in the winter. 

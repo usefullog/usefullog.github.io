@@ -1,9 +1,8 @@
 ---
 title: "Chicago"
 date: 2024-04-15
-draft: false
-toc: false
-image: /chicago/skyline.JPEG
+cover:
+    image: /chicago/skyline.JPEG
 tags: ["travel","food"]
 ---
 
