@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2026-03-13
+date: 2026-07-25
 permalink: /about/
 ---
 
@@ -40,6 +40,7 @@ Some are useless.*
 - 2025-10-01 Add Crater Lake post
 - 2026-02-04 Add cloudflare analytics
 - 2026-03-13 Switch to PaperMod theme
+- 2026-07-25 Add Running local LLM post
   
 # Contact Me
 Please send feedback to email[at]usefullog.com
